@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ailenm23
 - 🌱 I’m currently learning full stack developer
-- 💞️ I’m looking to collaborate on grear proyect
+- 💞️ I’m looking to collaborate on great proyect
 - 📫 How to reach me Email: ailenm23@outlook.es
 
 <!---
